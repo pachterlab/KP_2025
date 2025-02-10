@@ -1,0 +1,18 @@
+Daily PCA results
+Importance of components:
+                             PC1       PC2       PC3       PC4       PC5       PC6       PC7       PC8
+Standard deviation     9.283e+05 1.914e+05 8.408e+04 6.171e+04 4.301e+04 3.377e+04 2.828e+04 2.251e+04
+Proportion of Variance 9.415e-01 4.001e-02 7.720e-03 4.160e-03 2.020e-03 1.250e-03 8.700e-04 5.500e-04
+Cumulative Proportion  9.415e-01 9.815e-01 9.892e-01 9.934e-01 9.954e-01 9.967e-01 9.975e-01 9.981e-01
+                             PC9      PC10      PC11      PC12      PC13      PC14      PC15      PC16
+Standard deviation     1.793e+04 1.459e+04 1.440e+04 1.295e+04 1.062e+04 9.813e+03 9391.2468 9.104e+03
+Proportion of Variance 3.500e-04 2.300e-04 2.300e-04 1.800e-04 1.200e-04 1.100e-04    0.0001 9.000e-05
+Cumulative Proportion  9.984e-01 9.987e-01 9.989e-01 9.991e-01 9.992e-01 9.993e-01    0.9994 9.995e-01
+                            PC17      PC18      PC19      PC20      PC21      PC22      PC23      PC24
+Standard deviation     8.367e+03 8.247e+03 7.747e+03 6.929e+03 6.368e+03 5.527e+03 5.468e+03 5.216e+03
+Proportion of Variance 8.000e-05 7.000e-05 7.000e-05 5.000e-05 4.000e-05 3.000e-05 3.000e-05 3.000e-05
+Cumulative Proportion  9.996e-01 9.997e-01 9.997e-01 9.998e-01 9.998e-01 9.998e-01 9.999e-01 9.999e-01
+                            PC25      PC26      PC27      PC28      PC29      PC30
+Standard deviation     4.909e+03 4.786e+03 4.034e+03 3.622e+03 3.309e+03 4.123e-10
+Proportion of Variance 3.000e-05 3.000e-05 2.000e-05 1.000e-05 1.000e-05 0.000e+00
+Cumulative Proportion  9.999e-01 1.000e+00 1.000e+00 1.000e+00 1.000e+00 1.000e+00

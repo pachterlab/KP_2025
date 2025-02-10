@@ -1,0 +1,370 @@
+﻿SpikeMax,SpikeMin,Lag1,Lag2,Lag3,Lag4,Lag5,Lag6,Lag7,Lag8,Lag9,Lag10,Lag11
+"{""ATG9B"", ""nonsense_mediated_decay:SLVRNA""}","{""LRAT"", ""retained_intron:SLVRNA""}","{""ABCC5"", ""protein_coding:SLVRNA""}","{""AATK"", ""nonsense_mediated_decay:SLVRNA""}","{""ANAPC16"", ""processed_transcript:SLVRNA""}","{""ANKRD13D"", ""protein_coding:SLVRNA""}","{""ACVR1B"", ""protein_coding:SLVRNA""}","{""ACBD5"", ""protein_coding:SLVRNA""}","{""ABL1"", ""protein_coding:SLVRNA""}","{""AAK1"", ""protein_coding:SLVRNA""}","{""AGPAT3"", ""protein_coding:SLVRNA""}","{""AC002055.4"", ""processed_transcript:SLVRNA""}","{""ACTR3"", ""protein_coding:SLVRNA""}"
+"{""RN7SL1"", ""non_coding:SLVRNA""}","{""NMNAT3"", ""protein_coding:SLVRNA""}","{""PKN1"", ""retained_intron:SLVRNA""}","{""ATP6V1B2"", ""retained_intron:SLVRNA""}","{""PGS1"", ""processed_transcript:SLVRNA""}","{""YOD1"", ""protein_coding:SLVRNA""}","{""MPP5"", ""protein_coding:SLVRNA""}","{""PBXIP1"", ""protein_coding:SLVRNA""}","{""GNG7"", ""protein_coding:SLVRNA""}","{""CAND1"", ""protein_coding:SLVRNA""}","{""KLHDC3"", ""protein_coding:SLVRNA""}","{""SMAD4"", ""protein_coding:SLVRNA""}","{""NELFE"", ""protein_coding:SLVRNA""}"
+"{""KIFC2"", ""protein_coding:SLVRNA""}",,"{""SLC11A1"", ""nonsense_mediated_decay:SLVRNA""}","{""LAMTOR4"", ""protein_coding:SLVRNA""}","{""SLC25A37"", ""protein_coding:SLVRNA""}","{""EPG5"", ""protein_coding:SLVRNA""}","{""XPNPEP3"", ""protein_coding:SLVRNA""}","{""RP11-44M6.7"", ""retained_intron:SLVRNA""}","{""PLCG2"", ""retained_intron:SLVRNA""}","{""XBP1"", ""protein_coding:SLVRNA""}","{""CDK19"", ""protein_coding:SLVRNA""}","{""SLU7"", ""protein_coding:SLVRNA""}","{""PPM1G"", ""protein_coding:SLVRNA""}"
+,,"{""STXBP2"", ""retained_intron:SLVRNA""}","{""SQRDL"", ""protein_coding:SLVRNA""}","{""STEAP4"", ""protein_coding:SLVRNA""}","{""MMADHC"", ""protein_coding:SLVRNA""}","{""HNRNPH3"", ""processed_transcript:SLVRNA""}","{""ITGA5"", ""protein_coding:SLVRNA""}","{""MFSD11"", ""protein_coding:SLVRNA""}","{""DMXL2"", ""retained_intron:SLVRNA""}","{""CWC22"", ""protein_coding:SLVRNA""}","{""NHS"", ""protein_coding:SLVRNA""}","{""NECTIN2"", ""protein_coding:SLVRNA""}"
+,,"{""CCDC88B"", ""processed_transcript:SLVRNA""}","{""EIF4G1"", ""retained_intron:SLVRNA""}","{""ZMIZ2"", ""protein_coding:SLVRNA""}","{""RPS21"", ""protein_coding:SLVRNA""}","{""CDKL5"", ""protein_coding:SLVRNA""}","{""RAB35"", ""protein_coding:SLVRNA""}","{""DHRS12"", ""protein_coding:SLVRNA""}","{""STIM1"", ""protein_coding:SLVRNA""}","{""CCR5"", ""protein_coding:SLVRNA""}","{""NBPF10"", ""protein_coding:SLVRNA""}","{""CROCCP2"", ""processed_transcript:SLVRNA""}"
+,,"{""MMP25"", ""protein_coding:SLVRNA""}","{""YWHAE"", ""protein_coding:SLVRNA""}","{""ARHGEF12"", ""protein_coding:SLVRNA""}","{""PPP1R13L"", ""protein_coding:SLVRNA""}","{""MYO9A"", ""protein_coding:SLVRNA""}","{""ARPP19"", ""protein_coding:SLVRNA""}","{""ZNF383"", ""protein_coding:SLVRNA""}","{""CPT1A"", ""protein_coding:SLVRNA""}","{""SRA1"", ""retained_intron:SLVRNA""}","{""PRDX1"", ""protein_coding:SLVRNA""}","{""SOAT1"", ""protein_coding:SLVRNA""}"
+,,"{""RP11-324I22.3"", ""sense_intronic:SLVRNA""}","{""TNFRSF1B"", ""processed_transcript:SLVRNA""}","{""PINK1"", ""protein_coding:SLVRNA""}","{""SIM2"", ""protein_coding:SLVRNA""}","{""RP11-817O13.2"", ""processed_pseudogene:SLVRNA""}","{""PTPN13"", ""protein_coding:SLVRNA""}","{""NBPF9"", ""protein_coding:SLVRNA""}","{""PAQR5"", ""protein_coding:SLVRNA""}","{""BTG2"", ""nonsense_mediated_decay:SLVRNA""}","{""PTGES3"", ""protein_coding:SLVRNA""}","{""ESRRA"", ""protein_coding:SLVRNA""}"
+,,"{""ARRDC1"", ""processed_transcript:SLVRNA""}","{""NORAD"", ""lincRNA:SLVRNA""}","{""SCN1B"", ""retained_intron:SLVRNA""}","{""NDRG2"", ""protein_coding:SLVRNA""}","{""Z97634.3"", ""processed_transcript:SLVRNA""}","{""SOCS1"", ""protein_coding:SLVRNA""}","{""CTD-2049J23.2"", ""antisense:SLVRNA""}","{""BAZ2B"", ""protein_coding:SLVRNA""}","{""LFNG"", ""protein_coding:SLVRNA""}","{""GTPBP2"", ""protein_coding:SLVRNA""}","{""PSMC2"", ""protein_coding:SLVRNA""}"
+,,"{""ITGAM"", ""retained_intron:SLVRNA""}","{""MAFK"", ""protein_coding:SLVRNA""}","{""ARID1B"", ""protein_coding:SLVRNA""}","{""CACUL1"", ""protein_coding:SLVRNA""}","{""ARID5A"", ""retained_intron:SLVRNA""}","{""ERO1A"", ""nonsense_mediated_decay:SLVRNA""}","{""ATM"", ""protein_coding:SLVRNA""}","{""SCRIB"", ""protein_coding:SLVRNA""}","{""KCNJ15"", ""protein_coding:SLVRNA""}","{""KLF7"", ""protein_coding:SLVRNA""}","{""IQGAP2"", ""protein_coding:SLVRNA""}"
+,,"{""HSPB1"", ""nonsense_mediated_decay:SLVRNA""}","{""DNAJC13"", ""protein_coding:SLVRNA""}","{""MAPRE2"", ""protein_coding:SLVRNA""}","{""NRDC"", ""processed_transcript:SLVRNA""}","{""OAZ2"", ""protein_coding:SLVRNA""}","{""MLLT4"", ""protein_coding:SLVRNA""}","{""RBM17"", ""protein_coding:SLVRNA""}","{""ADPGK"", ""nonsense_mediated_decay:SLVRNA""}","{""CASP4"", ""retained_intron:SLVRNA""}","{""TBL1X"", ""protein_coding:SLVRNA""}","{""ESYT2"", ""protein_coding:SLVRNA""}"
+,,"{""SLC6A6"", ""nonsense_mediated_decay:SLVRNA""}","{""CORO1C"", ""protein_coding:SLVRNA""}","{""IL36RN"", ""protein_coding:SLVRNA""}","{""G6PD"", ""retained_intron:SLVRNA""}","{""PRAM1"", ""retained_intron:SLVRNA""}","{""SPHK1"", ""protein_coding:SLVRNA""}","{""GPSM3"", ""protein_coding:SLVRNA""}","{""KMT2D"", ""protein_coding:SLVRNA""}","{""FLI1"", ""nonsense_mediated_decay:SLVRNA""}","{""COX7B"", ""processed_transcript:SLVRNA""}","{""TNFAIP8L1"", ""protein_coding:SLVRNA""}"
+,,"{""CHI3L1"", ""retained_intron:SLVRNA""}","{""ACTR3"", ""retained_intron:SLVRNA""}","{""TFE3"", ""nonsense_mediated_decay:SLVRNA""}","{""PA2G4"", ""protein_coding:SLVRNA""}","{""UNC13D"", ""retained_intron:SLVRNA""}","{""FCHSD1"", ""protein_coding:SLVRNA""}","{""IDO1"", ""protein_coding:SLVRNA""}","{""ICOSLG"", ""protein_coding:SLVRNA""}","{""TBC1D10B"", ""protein_coding:SLVRNA""}","{""LLGL2"", ""protein_coding:SLVRNA""}","{""ERP29"", ""protein_coding:SLVRNA""}"
+,,"{""DAZAP1"", ""retained_intron:SLVRNA""}","{""ZMYM2"", ""protein_coding:SLVRNA""}","{""ATRN"", ""protein_coding:SLVRNA""}","{""TTC39B"", ""protein_coding:SLVRNA""}","{""RPS6KA1"", ""protein_coding:SLVRNA""}","{""TACC2"", ""protein_coding:SLVRNA""}","{""IL18R1"", ""protein_coding:SLVRNA""}","{""HNRNPAB"", ""protein_coding:SLVRNA""}","{""PIP4K2C"", ""protein_coding:SLVRNA""}","{""KDM4B"", ""protein_coding:SLVRNA""}","{""CTTNBP2NL"", ""protein_coding:SLVRNA""}"
+,,"{""MARK2"", ""protein_coding:SLVRNA""}","{""FGFR1OP"", ""protein_coding:SLVRNA""}","{""BTN3A2"", ""protein_coding:SLVRNA""}","{""DIAPH1"", ""protein_coding:SLVRNA""}","{""UBE3B"", ""protein_coding:SLVRNA""}","{""CSNK2A2"", ""protein_coding:SLVRNA""}","{""BCL2L1"", ""protein_coding:SLVRNA""}","{""ITGB1"", ""protein_coding:SLVRNA""}","{""ZNF24"", ""protein_coding:SLVRNA""}","{""TNIP1"", ""processed_transcript:SLVRNA""}","{""CBWD1"", ""retained_intron:SLVRNA""}"
+,,"{""ALDH1A3"", ""protein_coding:SLVRNA""}","{""EVI2A"", ""protein_coding:SLVRNA""}","{""PPM1F"", ""protein_coding:SLVRNA""}","{""NDFIP2"", ""protein_coding:SLVRNA""}","{""DUSP10"", ""protein_coding:SLVRNA""}","{""CTD-2649C14.2"", ""lincRNA:SLVRNA""}","{""SEMA4B"", ""retained_intron:SLVRNA""}","{""CCDC93"", ""protein_coding:SLVRNA""}","{""SCO2"", ""protein_coding:SLVRNA""}","{""FAM32A"", ""protein_coding:SLVRNA""}","{""TUBGCP4"", ""retained_intron:SLVRNA""}"
+,,"{""WDR1"", ""processed_transcript:SLVRNA""}","{""MID1IP1"", ""protein_coding:SLVRNA""}","{""COL4A3BP"", ""protein_coding:SLVRNA""}","{""CNFN"", ""protein_coding:SLVRNA""}","{""HNRNPK"", ""retained_intron:SLVRNA""}","{""YWHAZ"", ""protein_coding:SLVRNA""}","{""GSDMD"", ""retained_intron:SLVRNA""}","{""INIP"", ""protein_coding:SLVRNA""}","{""CARS"", ""protein_coding:SLVRNA""}","{""HNRNPH1"", ""protein_coding:SLVRNA""}","{""OTULIN"", ""protein_coding:SLVRNA""}"
+,,"{""UBC"", ""protein_coding:SLVRNA""}","{""PDXK"", ""protein_coding:SLVRNA""}","{""ZNF700"", ""protein_coding:SLVRNA""}","{""SPRR2D"", ""protein_coding:SLVRNA""}","{""C15orf52"", ""protein_coding:SLVRNA""}","{""ETS1"", ""protein_coding:SLVRNA""}","{""ZNF467"", ""protein_coding:SLVRNA""}","{""NSD1"", ""protein_coding:SLVRNA""}","{""ATF2"", ""protein_coding:SLVRNA""}","{""BCLAF1"", ""nonsense_mediated_decay:SLVRNA""}","{""SGPL1"", ""protein_coding:SLVRNA""}"
+,,"{""CAST"", ""protein_coding:SLVRNA""}","{""NUP155"", ""protein_coding:SLVRNA""}","{""FXR2"", ""protein_coding:SLVRNA""}","{""HEPHL1"", ""protein_coding:SLVRNA""}","{""GRHL1"", ""protein_coding:SLVRNA""}","{""PPP2R4"", ""protein_coding:SLVRNA""}","{""AC005154.6"", ""retained_intron:SLVRNA""}","{""RPL13A"", ""protein_coding:SLVRNA""}","{""TSSC4"", ""protein_coding:SLVRNA""}","{""PABPN1"", ""protein_coding:SLVRNA""}","{""RABGAP1"", ""protein_coding:SLVRNA""}"
+,,"{""TMPRSS4"", ""protein_coding:SLVRNA""}","{""TNRC6B"", ""protein_coding:SLVRNA""}","{""BAP1"", ""retained_intron:SLVRNA""}","{""HMGN1"", ""protein_coding:SLVRNA""}","{""AFF1"", ""protein_coding:SLVRNA""}","{""HDLBP"", ""retained_intron:SLVRNA""}","{""HDAC3"", ""retained_intron:SLVRNA""}","{""ZNF766"", ""protein_coding:SLVRNA""}","{""EPRS"", ""protein_coding:SLVRNA""}","{""ORAI2"", ""protein_coding:SLVRNA""}","{""PSMB9"", ""protein_coding:SLVRNA""}"
+,,"{""SH3BP5L"", ""protein_coding:SLVRNA""}","{""CD82"", ""protein_coding:SLVRNA""}","{""CCDC186"", ""protein_coding:SLVRNA""}","{""BPIFA2"", ""protein_coding:SLVRNA""}","{""LGALS9"", ""retained_intron:SLVRNA""}","{""OGDH"", ""protein_coding:SLVRNA""}","{""TRAF3IP3"", ""retained_intron:SLVRNA""}","{""NECAP1"", ""retained_intron:SLVRNA""}","{""SLC12A9"", ""protein_coding:SLVRNA""}","{""PRPF8"", ""retained_intron:SLVRNA""}","{""PLEK"", ""protein_coding:SLVRNA""}"
+,,"{""SEC14L1"", ""protein_coding:SLVRNA""}","{""IRAK2"", ""protein_coding:SLVRNA""}","{""DDR1"", ""protein_coding:SLVRNA""}","{""PRB4"", ""protein_coding:SLVRNA""}","{""RBAK"", ""protein_coding:SLVRNA""}","{""RPS28"", ""protein_coding:SLVRNA""}","{""NXF1"", ""protein_coding:SLVRNA""}","{""ARF6"", ""protein_coding:SLVRNA""}","{""RP13-516M14.1"", ""lincRNA:SLVRNA""}","{""ST3GAL4-AS1"", ""antisense:SLVRNA""}","{""USP7"", ""nonsense_mediated_decay:SLVRNA""}"
+,,"{""MED28"", ""protein_coding:SLVRNA""}","{""RTCB"", ""protein_coding:SLVRNA""}","{""DUSP22"", ""protein_coding:SLVRNA""}","{""BAG3"", ""protein_coding:SLVRNA""}","{""PPP2R2A"", ""protein_coding:SLVRNA""}","{""IRF2BPL"", ""protein_coding:SLVRNA""}","{""MZF1"", ""retained_intron:SLVRNA""}","{""C15orf62"", ""protein_coding:SLVRNA""}","{""RPS25"", ""protein_coding:SLVRNA""}","{""ASPSCR1"", ""protein_coding:SLVRNA""}","{""EIF3B"", ""retained_intron:SLVRNA""}"
+,,"{""RPS27L"", ""protein_coding:SLVRNA""}","{""BNIPL"", ""protein_coding:SLVRNA""}","{""ZNF592"", ""protein_coding:SLVRNA""}","{""MARCH5"", ""protein_coding:SLVRNA""}","{""NUP50"", ""protein_coding:SLVRNA""}","{""PNN"", ""protein_coding:SLVRNA""}","{""CLPTM1L"", ""retained_intron:SLVRNA""}","{""DENND3"", ""retained_intron:SLVRNA""}","{""ZNF688"", ""protein_coding:SLVRNA""}","{""TRAF3"", ""protein_coding:SLVRNA""}","{""RP11-109G10.1"", ""unprocessed_pseudogene:SLVRNA""}"
+,,"{""MYO1B"", ""protein_coding:SLVRNA""}","{""HADHA"", ""nonsense_mediated_decay:SLVRNA""}","{""MAN2B2"", ""protein_coding:SLVRNA""}","{""PELI1"", ""protein_coding:SLVRNA""}","{""PLTP"", ""protein_coding:SLVRNA""}","{""RBM47"", ""retained_intron:SLVRNA""}","{""HAUS4"", ""protein_coding:SLVRNA""}","{""MGAT5"", ""protein_coding:SLVRNA""}","{""TPT1"", ""protein_coding:SLVRNA""}","{""INSR"", ""protein_coding:SLVRNA""}","{""TGFBR1"", ""protein_coding:SLVRNA""}"
+,,"{""FBP1"", ""protein_coding:SLVRNA""}","{""ECM1"", ""protein_coding:SLVRNA""}","{""KIAA0141"", ""protein_coding:SLVRNA""}","{""REC8"", ""retained_intron:SLVRNA""}","{""NFKB2"", ""retained_intron:SLVRNA""}","{""COX7C"", ""protein_coding:SLVRNA""}","{""GPAA1"", ""retained_intron:SLVRNA""}","{""MCL1"", ""protein_coding:SLVRNA""}","{""CFL1"", ""retained_intron:SLVRNA""}","{""SNN"", ""protein_coding:SLVRNA""}","{""CALD1"", ""retained_intron:SLVRNA""}"
+,,"{""TPCN1"", ""protein_coding:SLVRNA""}","{""HOPX"", ""protein_coding:SLVRNA""}","{""RGL2"", ""processed_transcript:SLVRNA""}","{""PRR14"", ""retained_intron:SLVRNA""}","{""SPAG9"", ""retained_intron:SLVRNA""}","{""KCNMA1"", ""protein_coding:SLVRNA""}","{""FLOT2"", ""retained_intron:SLVRNA""}","{""WDR91"", ""protein_coding:SLVRNA""}","{""CD59"", ""protein_coding:SLVRNA""}","{""EXPH5"", ""protein_coding:SLVRNA""}","{""C7orf73"", ""protein_coding:SLVRNA""}"
+,,"{""SLC20A1"", ""protein_coding:SLVRNA""}","{""ZEB2"", ""protein_coding:SLVRNA""}","{""PLEKHA2"", ""protein_coding:SLVRNA""}","{""ATE1"", ""protein_coding:SLVRNA""}","{""PHF23"", ""protein_coding:SLVRNA""}","{""ERP44"", ""protein_coding:SLVRNA""}","{""STAT1"", ""protein_coding:SLVRNA""}","{""AXL"", ""protein_coding:SLVRNA""}","{""YBX1"", ""protein_coding:SLVRNA""}","{""EIF4G2"", ""retained_intron:SLVRNA""}","{""MECP2"", ""protein_coding:SLVRNA""}"
+,,"{""SCARB2"", ""retained_intron:SLVRNA""}","{""PDCD6IP"", ""protein_coding:SLVRNA""}","{""TSC22D4"", ""protein_coding:SLVRNA""}","{""CRTC3"", ""protein_coding:SLVRNA""}","{""NBPF26"", ""protein_coding:SLVRNA""}","{""SYNE3"", ""protein_coding:SLVRNA""}","{""RASAL1"", ""processed_transcript:SLVRNA""}","{""MAST4"", ""protein_coding:SLVRNA""}","{""MUT"", ""protein_coding:SLVRNA""}","{""CHSY1"", ""protein_coding:SLVRNA""}","{""SMAP2"", ""protein_coding:SLVRNA""}"
+,,"{""MED22"", ""protein_coding:SLVRNA""}","{""ESRP1"", ""protein_coding:SLVRNA""}","{""ATG13"", ""protein_coding:SLVRNA""}","{""YPEL2"", ""protein_coding:SLVRNA""}","{""RNF166"", ""processed_transcript:SLVRNA""}","{""ATP6AP2"", ""retained_intron:SLVRNA""}","{""GJB6"", ""protein_coding:SLVRNA""}","{""TTLL12"", ""protein_coding:SLVRNA""}","{""SF1"", ""processed_transcript:SLVRNA""}","{""RPL37"", ""protein_coding:SLVRNA""}","{""PLEKHJ1"", ""retained_intron:SLVRNA""}"
+,,"{""RGL2"", ""protein_coding:SLVRNA""}","{""LSM5"", ""protein_coding:SLVRNA""}","{""MBD2"", ""protein_coding:SLVRNA""}","{""VDAC1"", ""protein_coding:SLVRNA""}","{""DICER1"", ""protein_coding:SLVRNA""}","{""TBC1D2"", ""protein_coding:SLVRNA""}","{""ARF1"", ""processed_transcript:SLVRNA""}","{""RNPEPL1"", ""protein_coding:SLVRNA""}","{""NDRG1"", ""retained_intron:SLVRNA""}","{""ST13"", ""protein_coding:SLVRNA""}","{""VGLL4"", ""protein_coding:SLVRNA""}"
+,,"{""SUN1"", ""retained_intron:SLVRNA""}","{""DYNLL1"", ""protein_coding:SLVRNA""}","{""DBNL"", ""protein_coding:SLVRNA""}","{""SEP15"", ""protein_coding:SLVRNA""}","{""APLP2"", ""retained_intron:SLVRNA""}","{""MRC1"", ""protein_coding:SLVRNA""}","{""PRPF6"", ""protein_coding:SLVRNA""}","{""RP11-20I23.2"", ""TEC:SLVRNA""}","{""NARF"", ""nonsense_mediated_decay:SLVRNA""}","{""PFKL"", ""protein_coding:SLVRNA""}","{""RAB37"", ""retained_intron:SLVRNA""}"
+,,"{""PADI1"", ""processed_transcript:SLVRNA""}","{""RNF20"", ""protein_coding:SLVRNA""}","{""ITPKB"", ""protein_coding:SLVRNA""}","{""TM4SF1"", ""protein_coding:SLVRNA""}","{""B4GALT5"", ""protein_coding:SLVRNA""}","{""ACO2"", ""protein_coding:SLVRNA""}","{""HNRNPM"", ""protein_coding:SLVRNA""}","{""STAT5A"", ""protein_coding:SLVRNA""}","{""SRP72"", ""protein_coding:SLVRNA""}","{""ALPL"", ""protein_coding:SLVRNA""}","{""LPAR2"", ""retained_intron:SLVRNA""}"
+,,"{""RP11-46H11.3"", ""lincRNA:SLVRNA""}","{""ABR"", ""protein_coding:SLVRNA""}","{""HLA-DQB1"", ""protein_coding:SLVRNA""}","{""KIF27"", ""protein_coding:SLVRNA""}","{""SREBF1"", ""nonsense_mediated_decay:SLVRNA""}","{""VSIG10L"", ""nonsense_mediated_decay:SLVRNA""}","{""HYOU1"", ""protein_coding:SLVRNA""}","{""TGOLN2"", ""protein_coding:SLVRNA""}","{""RP11-159D12.2"", ""lincRNA:SLVRNA""}","{""DOK3"", ""protein_coding:SLVRNA""}","{""RCBTB1"", ""protein_coding:SLVRNA""}"
+,,"{""GADD45B"", ""retained_intron:SLVRNA""}","{""OSMR"", ""protein_coding:SLVRNA""}","{""SNX10"", ""protein_coding:SLVRNA""}","{""CYB5R4"", ""protein_coding:SLVRNA""}","{""AGO2"", ""protein_coding:SLVRNA""}","{""CEACAM4"", ""protein_coding:SLVRNA""}","{""TAX1BP3"", ""protein_coding:SLVRNA""}","{""FAM129A"", ""processed_transcript:SLVRNA""}","{""LMNB2"", ""protein_coding:SLVRNA""}","{""YTHDF3"", ""protein_coding:SLVRNA""}","{""TPRN"", ""protein_coding:SLVRNA""}"
+,,"{""COL7A1"", ""retained_intron:SLVRNA""}","{""CCR7"", ""protein_coding:SLVRNA""}","{""CCM2"", ""protein_coding:SLVRNA""}","{""ATG2B"", ""protein_coding:SLVRNA""}","{""CANT1"", ""protein_coding:SLVRNA""}","{""IFNGR1"", ""protein_coding:SLVRNA""}","{""RBM5"", ""retained_intron:SLVRNA""}","{""RAB11FIP1"", ""protein_coding:SLVRNA""}","{""MICAL2"", ""retained_intron:SLVRNA""}","{""BCL3"", ""protein_coding:SLVRNA""}","{""ARHGEF40"", ""retained_intron:SLVRNA""}"
+,,"{""IMPA2"", ""retained_intron:SLVRNA""}","{""TIMP1"", ""protein_coding:SLVRNA""}","{""HOOK2"", ""protein_coding:SLVRNA""}","{""ROCK1"", ""protein_coding:SLVRNA""}","{""PIK3C3"", ""protein_coding:SLVRNA""}","{""CMTM6"", ""protein_coding:SLVRNA""}","{""PFKL"", ""retained_intron:SLVRNA""}","{""IRF1"", ""protein_coding:SLVRNA""}","{""FRMD4B"", ""protein_coding:SLVRNA""}","{""UBE2D3"", ""retained_intron:SLVRNA""}","{""PRDM4"", ""protein_coding:SLVRNA""}"
+,,"{""SON"", ""protein_coding:SLVRNA""}","{""ARPC5"", ""processed_transcript:SLVRNA""}","{""HEXIM1"", ""protein_coding:SLVRNA""}","{""SLC30A9"", ""protein_coding:SLVRNA""}","{""TRADD"", ""protein_coding:SLVRNA""}","{""MAP2K4"", ""protein_coding:SLVRNA""}","{""LRRC25"", ""protein_coding:SLVRNA""}","{""YPEL3"", ""nonsense_mediated_decay:SLVRNA""}","{""PAPOLA"", ""protein_coding:SLVRNA""}","{""SRSF3"", ""retained_intron:SLVRNA""}","{""MAP3K5"", ""protein_coding:SLVRNA""}"
+,,"{""TSTA3"", ""retained_intron:SLVRNA""}","{""RHOH"", ""protein_coding:SLVRNA""}","{""GNB1"", ""retained_intron:SLVRNA""}","{""TRAPPC12"", ""retained_intron:SLVRNA""}","{""TMCC3"", ""protein_coding:SLVRNA""}","{""RNF11"", ""protein_coding:SLVRNA""}","{""CNN2"", ""retained_intron:SLVRNA""}","{""SIPA1"", ""protein_coding:SLVRNA""}","{""RBM6"", ""nonsense_mediated_decay:SLVRNA""}","{""GGNBP2"", ""retained_intron:SLVRNA""}","{""PITPNA"", ""protein_coding:SLVRNA""}"
+,,"{""ARL8B"", ""protein_coding:SLVRNA""}","{""PEA15"", ""protein_coding:SLVRNA""}","{""HMGB2"", ""protein_coding:SLVRNA""}","{""PPP1R12B"", ""protein_coding:SLVRNA""}","{""RELB"", ""protein_coding:SLVRNA""}","{""EXOC1"", ""protein_coding:SLVRNA""}","{""ADCY9"", ""protein_coding:SLVRNA""}","{""FERMT3"", ""retained_intron:SLVRNA""}","{""SP110"", ""retained_intron:SLVRNA""}","{""TNS3"", ""protein_coding:SLVRNA""}","{""BLCAP"", ""protein_coding:SLVRNA""}"
+,,"{""KCTD20"", ""protein_coding:SLVRNA""}","{""CD83"", ""protein_coding:SLVRNA""}","{""STX11"", ""protein_coding:SLVRNA""}","{""TNIP2"", ""protein_coding:SLVRNA""}","{""PSMD13"", ""nonsense_mediated_decay:SLVRNA""}","{""CCDC88B"", ""protein_coding:SLVRNA""}","{""FOXC1"", ""protein_coding:SLVRNA""}","{""DSE"", ""protein_coding:SLVRNA""}","{""FCGRT"", ""retained_intron:SLVRNA""}","{""OSBP"", ""protein_coding:SLVRNA""}","{""C1RL"", ""protein_coding:SLVRNA""}"
+,,"{""SCNN1G"", ""protein_coding:SLVRNA""}","{""COPE"", ""protein_coding:SLVRNA""}","{""ZNF710"", ""protein_coding:SLVRNA""}","{""CST7"", ""protein_coding:SLVRNA""}","{""NRAS"", ""protein_coding:SLVRNA""}","{""DNAJA2"", ""protein_coding:SLVRNA""}","{""VTA1"", ""protein_coding:SLVRNA""}","{""RPS6KA2"", ""protein_coding:SLVRNA""}","{""UBE4A"", ""protein_coding:SLVRNA""}","{""C15orf48"", ""protein_coding:SLVRNA""}","{""TM9SF1"", ""protein_coding:SLVRNA""}"
+,,"{""MPRIP"", ""protein_coding:SLVRNA""}","{""PSME4"", ""retained_intron:SLVRNA""}","{""TNKS1BP1"", ""protein_coding:SLVRNA""}","{""NUMB"", ""retained_intron:SLVRNA""}","{""MARCH6"", ""protein_coding:SLVRNA""}","{""CTSS"", ""processed_transcript:SLVRNA""}","{""DNAJB12"", ""protein_coding:SLVRNA""}","{""DAPP1"", ""retained_intron:SLVRNA""}","{""HOMER3"", ""protein_coding:SLVRNA""}","{""SP140"", ""protein_coding:SLVRNA""}","{""IL13RA1"", ""protein_coding:SLVRNA""}"
+,,"{""SLC26A9"", ""protein_coding:SLVRNA""}","{""CDH4"", ""protein_coding:SLVRNA""}","{""DSG2"", ""protein_coding:SLVRNA""}","{""PTPN2"", ""retained_intron:SLVRNA""}","{""TUBA1A"", ""protein_coding:SLVRNA""}","{""TNRC6C"", ""protein_coding:SLVRNA""}","{""KIAA2013"", ""protein_coding:SLVRNA""}","{""DBNL"", ""retained_intron:SLVRNA""}","{""OAS1"", ""protein_coding:SLVRNA""}","{""LARP4B"", ""protein_coding:SLVRNA""}","{""DHX40"", ""protein_coding:SLVRNA""}"
+,,"{""SEC61A2"", ""protein_coding:SLVRNA""}","{""RP11-358L22.3"", ""sense_intronic:SLVRNA""}","{""FAM3D"", ""protein_coding:SLVRNA""}","{""BTBD7"", ""protein_coding:SLVRNA""}","{""ARIH1"", ""protein_coding:SLVRNA""}","{""RAB30"", ""protein_coding:SLVRNA""}","{""FAM214B"", ""protein_coding:SLVRNA""}","{""RP11-492E3.1"", ""lincRNA:SLVRNA""}","{""JPX"", ""lincRNA:SLVRNA""}","{""G3BP2"", ""protein_coding:SLVRNA""}","{""SIDT2"", ""protein_coding:SLVRNA""}"
+,,"{""LINC00511"", ""lincRNA:SLVRNA""}","{""CCDC141"", ""protein_coding:SLVRNA""}","{""BST2"", ""protein_coding:SLVRNA""}","{""KPNA4"", ""protein_coding:SLVRNA""}","{""STK26"", ""protein_coding:SLVRNA""}","{""AMPD2"", ""retained_intron:SLVRNA""}","{""ERN1"", ""protein_coding:SLVRNA""}","{""UGDH"", ""protein_coding:SLVRNA""}","{""CDK12"", ""protein_coding:SLVRNA""}","{""DPEP2"", ""retained_intron:SLVRNA""}","{""DIO2"", ""protein_coding:SLVRNA""}"
+,,"{""GDF15"", ""protein_coding:SLVRNA""}","{""TTC21A"", ""retained_intron:SLVRNA""}","{""BANP"", ""processed_transcript:SLVRNA""}","{""UQCR11"", ""protein_coding:SLVRNA""}","{""CLIC4"", ""protein_coding:SLVRNA""}","{""HLA-E"", ""protein_coding:SLVRNA""}","{""USP10"", ""protein_coding:SLVRNA""}","{""USP25"", ""protein_coding:SLVRNA""}","{""SMIM12"", ""protein_coding:SLVRNA""}","{""TMEM159"", ""protein_coding:SLVRNA""}","{""RICTOR"", ""protein_coding:SLVRNA""}"
+,,"{""MYO5B"", ""protein_coding:SLVRNA""}","{""NAB1"", ""protein_coding:SLVRNA""}","{""CCNK"", ""protein_coding:SLVRNA""}","{""YIPF6"", ""protein_coding:SLVRNA""}","{""GPBP1L1"", ""protein_coding:SLVRNA""}",,"{""SDF4"", ""retained_intron:SLVRNA""}","{""NAGK"", ""protein_coding:SLVRNA""}","{""SARAF"", ""protein_coding:SLVRNA""}","{""HUWE1"", ""protein_coding:SLVRNA""}","{""DLEU2"", ""antisense:SLVRNA""}"
+,,"{""EZR"", ""protein_coding:SLVRNA""}","{""RP5-857K21.8"", ""unprocessed_pseudogene:SLVRNA""}","{""ELMO1"", ""protein_coding:SLVRNA""}","{""FAM83D"", ""protein_coding:SLVRNA""}","{""BSDC1"", ""protein_coding:SLVRNA""}",,"{""DYNC1H1"", ""protein_coding:SLVRNA""}","{""PRSS8"", ""retained_intron:SLVRNA""}","{""CTSB"", ""protein_coding:SLVRNA""}","{""NFYA"", ""protein_coding:SLVRNA""}","{""CREB5"", ""protein_coding:SLVRNA""}"
+,,"{""FBXO46"", ""protein_coding:SLVRNA""}","{""PPP1R11"", ""protein_coding:SLVRNA""}","{""TAF10"", ""retained_intron:SLVRNA""}","{""SMARCD2"", ""protein_coding:SLVRNA""}","{""FBXO42"", ""protein_coding:SLVRNA""}",,"{""MKL1"", ""protein_coding:SLVRNA""}","{""PPP4R1"", ""protein_coding:SLVRNA""}","{""TNFRSF10B"", ""retained_intron:SLVRNA""}","{""SPRYD3"", ""protein_coding:SLVRNA""}","{""ATP2B4"", ""nonsense_mediated_decay:SLVRNA""}"
+,,"{""C17orf49"", ""retained_intron:SLVRNA""}","{""MFNG"", ""protein_coding:SLVRNA""}","{""ZC3H18"", ""retained_intron:SLVRNA""}","{""GNB2"", ""protein_coding:SLVRNA""}","{""BLOC1S1"", ""protein_coding:SLVRNA""}",,"{""SPCS2"", ""protein_coding:SLVRNA""}","{""PHF2"", ""protein_coding:SLVRNA""}","{""CYSTM1"", ""protein_coding:SLVRNA""}","{""RP13-104F24.2"", ""processed_transcript:SLVRNA""}","{""PLXND1"", ""protein_coding:SLVRNA""}"
+,,"{""ATG16L2"", ""protein_coding:SLVRNA""}","{""TFIP11"", ""protein_coding:SLVRNA""}","{""PDZD8"", ""protein_coding:SLVRNA""}","{""PRAM1"", ""protein_coding:SLVRNA""}","{""ERBB2"", ""retained_intron:SLVRNA""}",,"{""MAP7D1"", ""retained_intron:SLVRNA""}","{""TTLL4"", ""protein_coding:SLVRNA""}","{""GANC"", ""protein_coding:SLVRNA""}","{""CDK17"", ""protein_coding:SLVRNA""}","{""GM2A"", ""protein_coding:SLVRNA""}"
+,,"{""C11orf31"", ""protein_coding:SLVRNA""}","{""BIRC6"", ""retained_intron:SLVRNA""}","{""CD302"", ""protein_coding:SLVRNA""}","{""KLF2"", ""protein_coding:SLVRNA""}","{""PTPN12"", ""protein_coding:SLVRNA""}",,"{""ELL"", ""protein_coding:SLVRNA""}","{""PRRC2C"", ""processed_transcript:SLVRNA""}","{""YARS"", ""processed_transcript:SLVRNA""}","{""LILRB4"", ""protein_coding:SLVRNA""}","{""IFRD1"", ""retained_intron:SLVRNA""}"
+,,"{""MPP1"", ""protein_coding:SLVRNA""}","{""NSD3"", ""protein_coding:SLVRNA""}","{""TSG101"", ""protein_coding:SLVRNA""}","{""FAM200B"", ""processed_transcript:SLVRNA""}","{""NFE2L1"", ""protein_coding:SLVRNA""}",,"{""TGFBR2"", ""protein_coding:SLVRNA""}","{""TREML2"", ""protein_coding:SLVRNA""}","{""RAB3IP"", ""protein_coding:SLVRNA""}","{""STK10"", ""protein_coding:SLVRNA""}","{""CSAD"", ""retained_intron:SLVRNA""}"
+,,"{""FBXO32"", ""retained_intron:SLVRNA""}","{""SETD7"", ""protein_coding:SLVRNA""}","{""SLC39A8"", ""protein_coding:SLVRNA""}","{""C19orf33"", ""protein_coding:SLVRNA""}","{""SLC25A23"", ""protein_coding:SLVRNA""}",,"{""SRSF4"", ""protein_coding:SLVRNA""}","{""UBE2J1"", ""protein_coding:SLVRNA""}","{""SPAG1"", ""protein_coding:SLVRNA""}","{""EGLN3"", ""protein_coding:SLVRNA""}","{""S100A6"", ""protein_coding:SLVRNA""}"
+,,"{""ARIH1"", ""retained_intron:SLVRNA""}","{""CANX"", ""protein_coding:SLVRNA""}","{""CHST12"", ""protein_coding:SLVRNA""}","{""NAA30"", ""protein_coding:SLVRNA""}","{""KAT2B"", ""protein_coding:SLVRNA""}",,"{""ADD3"", ""protein_coding:SLVRNA""}","{""KIF5B"", ""protein_coding:SLVRNA""}","{""LCOR"", ""protein_coding:SLVRNA""}","{""WDR26"", ""protein_coding:SLVRNA""}","{""CCL4"", ""protein_coding:SLVRNA""}"
+,,"{""MGA"", ""protein_coding:SLVRNA""}","{""RBPJ"", ""retained_intron:SLVRNA""}","{""NCBP3"", ""protein_coding:SLVRNA""}","{""GIT2"", ""protein_coding:SLVRNA""}","{""PFKFB2"", ""protein_coding:SLVRNA""}",,"{""MOB3B"", ""protein_coding:SLVRNA""}","{""RP5-857K21.9"", ""unprocessed_pseudogene:SLVRNA""}","{""CTD-2313N18.5"", ""processed_transcript:SLVRNA""}","{""EEF1A1"", ""retained_intron:SLVRNA""}","{""CHCHD2"", ""protein_coding:SLVRNA""}"
+,,"{""RP11-182I10.3"", ""retained_intron:SLVRNA""}","{""CD46"", ""processed_transcript:SLVRNA""}","{""SMCHD1"", ""nonsense_mediated_decay:SLVRNA""}","{""KMT2E"", ""protein_coding:SLVRNA""}","{""RNF141"", ""protein_coding:SLVRNA""}",,"{""NPIPB11"", ""protein_coding:SLVRNA""}","{""IBA57"", ""protein_coding:SLVRNA""}","{""CLCN7"", ""retained_intron:SLVRNA""}","{""TNPO1"", ""protein_coding:SLVRNA""}","{""TOMM20"", ""protein_coding:SLVRNA""}"
+,,"{""OXSR1"", ""protein_coding:SLVRNA""}","{""EHD1"", ""processed_transcript:SLVRNA""}","{""PITPNA"", ""retained_intron:SLVRNA""}","{""SPRR2G"", ""protein_coding:SLVRNA""}","{""CXCL1"", ""processed_transcript:SLVRNA""}",,"{""SYMPK"", ""retained_intron:SLVRNA""}","{""SNHG16"", ""lincRNA:SLVRNA""}","{""PLEKHG3"", ""protein_coding:SLVRNA""}","{""ARID1A"", ""protein_coding:SLVRNA""}","{""AGO1"", ""protein_coding:SLVRNA""}"
+,,"{""FAM8A1"", ""protein_coding:SLVRNA""}","{""NUP153"", ""protein_coding:SLVRNA""}",,"{""SPRR2E"", ""protein_coding:SLVRNA""}","{""MKNK1"", ""protein_coding:SLVRNA""}",,"{""EGR3"", ""protein_coding:SLVRNA""}","{""RAP1GAP2"", ""retained_intron:SLVRNA""}","{""PPP4C"", ""retained_intron:SLVRNA""}","{""SEC23IP"", ""protein_coding:SLVRNA""}","{""PCYT2"", ""protein_coding:SLVRNA""}"
+,,"{""CALCOCO1"", ""protein_coding:SLVRNA""}","{""ARHGAP26"", ""processed_transcript:SLVRNA""}",,"{""PI3"", ""protein_coding:SLVRNA""}","{""MYO1F"", ""processed_transcript:SLVRNA""}",,"{""POFUT2"", ""protein_coding:SLVRNA""}","{""ITGAL"", ""retained_intron:SLVRNA""}","{""RAF1"", ""protein_coding:SLVRNA""}","{""FNBP4"", ""protein_coding:SLVRNA""}","{""CPQ"", ""protein_coding:SLVRNA""}"
+,,"{""SERPINB2"", ""protein_coding:SLVRNA""}","{""DENND3"", ""processed_transcript:SLVRNA""}",,"{""PITPNA"", ""nonsense_mediated_decay:SLVRNA""}","{""SH3BP1"", ""protein_coding:SLVRNA""}",,"{""PNPLA6"", ""protein_coding:SLVRNA""}",,"{""CD164"", ""protein_coding:SLVRNA""}","{""TMEM248"", ""protein_coding:SLVRNA""}","{""CSDE1"", ""protein_coding:SLVRNA""}"
+,,"{""PADI4"", ""protein_coding:SLVRNA""}","{""KRT14"", ""protein_coding:SLVRNA""}",,"{""CSK"", ""retained_intron:SLVRNA""}",,,"{""HIP1"", ""protein_coding:SLVRNA""}",,"{""POLR2J3"", ""protein_coding:SLVRNA""}","{""FOXP4"", ""protein_coding:SLVRNA""}","{""ZRANB2"", ""protein_coding:SLVRNA""}"
+,,"{""NFE2"", ""protein_coding:SLVRNA""}","{""DNAJB1"", ""protein_coding:SLVRNA""}",,"{""TMEM173"", ""retained_intron:SLVRNA""}",,,"{""AC144831.1"", ""lincRNA:SLVRNA""}",,"{""BCL3"", ""retained_intron:SLVRNA""}","{""TST"", ""protein_coding:SLVRNA""}","{""RRBP1"", ""protein_coding:SLVRNA""}"
+,,"{""ECM1"", ""processed_transcript:SLVRNA""}","{""CRB3"", ""protein_coding:SLVRNA""}",,"{""RNASEL"", ""protein_coding:SLVRNA""}",,,"{""SLC12A6"", ""retained_intron:SLVRNA""}",,"{""HOOK3"", ""protein_coding:SLVRNA""}","{""CTNNB1"", ""protein_coding:SLVRNA""}","{""DSCR3"", ""protein_coding:SLVRNA""}"
+,,"{""ALDH3B2"", ""protein_coding:SLVRNA""}","{""OR52K3P"", ""processed_transcript:SLVRNA""}",,"{""CCNY"", ""processed_transcript:SLVRNA""}",,,"{""RND1"", ""retained_intron:SLVRNA""}",,"{""ECHDC3"", ""protein_coding:SLVRNA""}","{""GALNT1"", ""protein_coding:SLVRNA""}","{""RANBP3"", ""protein_coding:SLVRNA""}"
+,,"{""AC016747.2"", ""retained_intron:SLVRNA""}","{""FAM111A"", ""protein_coding:SLVRNA""}",,"{""RANGAP1"", ""protein_coding:SLVRNA""}",,,"{""TTLL3"", ""protein_coding:SLVRNA""}",,"{""UBXN11"", ""retained_intron:SLVRNA""}","{""CRYAB"", ""protein_coding:SLVRNA""}","{""DDX3X"", ""nonsense_mediated_decay:SLVRNA""}"
+,,"{""EPS8L2"", ""retained_intron:SLVRNA""}","{""UGCG"", ""protein_coding:SLVRNA""}",,"{""PPP1CC"", ""protein_coding:SLVRNA""}",,,"{""GGA3"", ""nonsense_mediated_decay:SLVRNA""}",,"{""RSF1"", ""protein_coding:SLVRNA""}","{""CYB5R3"", ""protein_coding:SLVRNA""}","{""ARHGDIA"", ""retained_intron:SLVRNA""}"
+,,"{""RXRB"", ""protein_coding:SLVRNA""}","{""CDKN1C"", ""protein_coding:SLVRNA""}",,"{""WDFY3"", ""protein_coding:SLVRNA""}",,,"{""MIR23A"", ""miRNA:SLVRNA""}",,"{""IFI35"", ""retained_intron:SLVRNA""}","{""TIAM1"", ""protein_coding:SLVRNA""}","{""SLURP1"", ""protein_coding:SLVRNA""}"
+,,"{""ERO1A"", ""protein_coding:SLVRNA""}","{""TMBIM4"", ""protein_coding:SLVRNA""}",,"{""TWF1"", ""protein_coding:SLVRNA""}",,,"{""PTK2B"", ""retained_intron:SLVRNA""}",,"{""YY1"", ""protein_coding:SLVRNA""}","{""POLE"", ""retained_intron:SLVRNA""}","{""PART1"", ""lincRNA:SLVRNA""}"
+,,"{""CCNJL"", ""protein_coding:SLVRNA""}","{""NT5C2"", ""processed_transcript:SLVRNA""}",,"{""ZNF143"", ""protein_coding:SLVRNA""}",,,"{""MYO9B"", ""retained_intron:SLVRNA""}",,"{""SPACA6"", ""retained_intron:SLVRNA""}","{""FCHSD2"", ""protein_coding:SLVRNA""}","{""MYO1F"", ""retained_intron:SLVRNA""}"
+,,"{""GLUL"", ""processed_transcript:SLVRNA""}","{""MT1G"", ""protein_coding:SLVRNA""}",,"{""DTX3L"", ""protein_coding:SLVRNA""}",,,"{""PTPN1"", ""protein_coding:SLVRNA""}",,,"{""SFPQ"", ""processed_transcript:SLVRNA""}","{""USP15"", ""protein_coding:SLVRNA""}"
+,,"{""PPP1R3C"", ""protein_coding:SLVRNA""}","{""RAF1"", ""retained_intron:SLVRNA""}",,"{""TAP1"", ""retained_intron:SLVRNA""}",,,"{""ING1"", ""protein_coding:SLVRNA""}",,,"{""BRD3"", ""protein_coding:SLVRNA""}","{""SCN1B"", ""protein_coding:SLVRNA""}"
+,,"{""HLA-E"", ""retained_intron:SLVRNA""}","{""S100A14"", ""protein_coding:SLVRNA""}",,"{""FLII"", ""retained_intron:SLVRNA""}",,,"{""WDR1"", ""protein_coding:SLVRNA""}",,,"{""HSPA13"", ""protein_coding:SLVRNA""}","{""NCF2"", ""protein_coding:SLVRNA""}"
+,,"{""RP11-93B14.9"", ""antisense:SLVRNA""}","{""PDCD6"", ""protein_coding:SLVRNA""}",,"{""DIDO1"", ""protein_coding:SLVRNA""}",,,"{""PGD"", ""protein_coding:SLVRNA""}",,,"{""PTPN2"", ""protein_coding:SLVRNA""}","{""HPS5"", ""protein_coding:SLVRNA""}"
+,,"{""RMND5B"", ""protein_coding:SLVRNA""}","{""FBXO18"", ""protein_coding:SLVRNA""}",,,,,"{""MXD1"", ""nonsense_mediated_decay:SLVRNA""}",,,"{""MYO1C"", ""protein_coding:SLVRNA""}","{""ATP2A3"", ""retained_intron:SLVRNA""}"
+,,"{""RHCG"", ""nonsense_mediated_decay:SLVRNA""}","{""RNPS1"", ""retained_intron:SLVRNA""}",,,,,"{""MGAT4A"", ""protein_coding:SLVRNA""}",,,"{""FKBP1A"", ""protein_coding:SLVRNA""}","{""LTN1"", ""protein_coding:SLVRNA""}"
+,,"{""SPTAN1"", ""retained_intron:SLVRNA""}","{""WASL"", ""protein_coding:SLVRNA""}",,,,,"{""NFKB2"", ""processed_transcript:SLVRNA""}",,,"{""DDX60L"", ""protein_coding:SLVRNA""}","{""CASC3"", ""protein_coding:SLVRNA""}"
+,,"{""TBC1D10C"", ""protein_coding:SLVRNA""}","{""ZC3H18"", ""protein_coding:SLVRNA""}",,,,,"{""PPP6R3"", ""protein_coding:SLVRNA""}",,,"{""ERLIN2"", ""protein_coding:SLVRNA""}","{""PHKG2"", ""retained_intron:SLVRNA""}"
+,,"{""SEC24C"", ""protein_coding:SLVRNA""}","{""CCNT1"", ""protein_coding:SLVRNA""}",,,,,"{""UBAP2L"", ""protein_coding:SLVRNA""}",,,,"{""HLX"", ""protein_coding:SLVRNA""}"
+,,"{""PACS1"", ""retained_intron:SLVRNA""}","{""SLC39A13"", ""protein_coding:SLVRNA""}",,,,,"{""MAP7D1"", ""processed_transcript:SLVRNA""}",,,,"{""TATDN2"", ""protein_coding:SLVRNA""}"
+,,"{""SLC39A1"", ""protein_coding:SLVRNA""}","{""FAM49A"", ""protein_coding:SLVRNA""}",,,,,"{""GPR157"", ""protein_coding:SLVRNA""}",,,,"{""PAN3"", ""protein_coding:SLVRNA""}"
+,,"{""SF3B1"", ""retained_intron:SLVRNA""}","{""HP1BP3"", ""protein_coding:SLVRNA""}",,,,,"{""DDX1"", ""protein_coding:SLVRNA""}",,,,"{""CAMKK2"", ""protein_coding:SLVRNA""}"
+,,"{""FBXW11"", ""protein_coding:SLVRNA""}","{""SLC44A1"", ""protein_coding:SLVRNA""}",,,,,"{""CRYM"", ""protein_coding:SLVRNA""}",,,,"{""PUM1"", ""protein_coding:SLVRNA""}"
+,,"{""MKNK1"", ""processed_transcript:SLVRNA""}","{""UACA"", ""protein_coding:SLVRNA""}",,,,,"{""CDKN1A"", ""protein_coding:SLVRNA""}",,,,"{""SUDS3"", ""protein_coding:SLVRNA""}"
+,,"{""FUCA1"", ""protein_coding:SLVRNA""}","{""PRDM8"", ""protein_coding:SLVRNA""}",,,,,"{""BAIAP2"", ""retained_intron:SLVRNA""}",,,,"{""RBM25"", ""protein_coding:SLVRNA""}"
+,,"{""CLEC7A"", ""retained_intron:SLVRNA""}","{""IL1R2"", ""protein_coding:SLVRNA""}",,,,,"{""MTF1"", ""protein_coding:SLVRNA""}",,,,"{""S100P"", ""protein_coding:SLVRNA""}"
+,,"{""HSP90AB1"", ""protein_coding:SLVRNA""}","{""C11orf68"", ""protein_coding:SLVRNA""}",,,,,"{""BAK1"", ""protein_coding:SLVRNA""}",,,,"{""RND3"", ""protein_coding:SLVRNA""}"
+,,"{""VPS37B"", ""protein_coding:SLVRNA""}","{""ZNF431"", ""protein_coding:SLVRNA""}",,,,,"{""TMEM184B"", ""protein_coding:SLVRNA""}",,,,"{""LCN2"", ""protein_coding:SLVRNA""}"
+,,"{""GUK1"", ""processed_transcript:SLVRNA""}","{""SYNE2"", ""protein_coding:SLVRNA""}",,,,,"{""NDRG3"", ""protein_coding:SLVRNA""}",,,,"{""MAPKAP1"", ""protein_coding:SLVRNA""}"
+,,"{""RALGDS"", ""retained_intron:SLVRNA""}","{""OSBPL9"", ""protein_coding:SLVRNA""}",,,,,"{""CDC42EP2"", ""protein_coding:SLVRNA""}",,,,"{""CYFIP1"", ""protein_coding:SLVRNA""}"
+,,"{""SERINC5"", ""protein_coding:SLVRNA""}","{""KIAA1147"", ""protein_coding:SLVRNA""}",,,,,"{""CHI3L1"", ""protein_coding:SLVRNA""}",,,,"{""MANSC1"", ""protein_coding:SLVRNA""}"
+,,"{""C18orf25"", ""protein_coding:SLVRNA""}","{""TMED7"", ""protein_coding:SLVRNA""}",,,,,"{""ZNF117"", ""protein_coding:SLVRNA""}",,,,"{""DAB2"", ""protein_coding:SLVRNA""}"
+,,"{""MAP3K9"", ""protein_coding:SLVRNA""}","{""SORT1"", ""protein_coding:SLVRNA""}",,,,,"{""ACAD8"", ""retained_intron:SLVRNA""}",,,,"{""RB1CC1"", ""protein_coding:SLVRNA""}"
+,,"{""KLC1"", ""protein_coding:SLVRNA""}","{""DCP1A"", ""protein_coding:SLVRNA""}",,,,,"{""GAK"", ""protein_coding:SLVRNA""}",,,,"{""UBA7"", ""retained_intron:SLVRNA""}"
+,,"{""SQSTM1"", ""protein_coding:SLVRNA""}","{""ANKRD52"", ""protein_coding:SLVRNA""}",,,,,"{""MAML1"", ""protein_coding:SLVRNA""}",,,,"{""CWC25"", ""protein_coding:SLVRNA""}"
+,,"{""RPL4"", ""protein_coding:SLVRNA""}","{""DDX46"", ""protein_coding:SLVRNA""}",,,,,"{""GTF2IP18"", ""processed_transcript:SLVRNA""}",,,,"{""PITPNC1"", ""protein_coding:SLVRNA""}"
+,,"{""GPRC5A"", ""retained_intron:SLVRNA""}","{""CTBP1"", ""protein_coding:SLVRNA""}",,,,,"{""DENND5A"", ""retained_intron:SLVRNA""}",,,,
+,,"{""C14orf159"", ""protein_coding:SLVRNA""}","{""STIP1"", ""protein_coding:SLVRNA""}",,,,,"{""VPS8"", ""retained_intron:SLVRNA""}",,,,
+,,"{""PRSS8"", ""protein_coding:SLVRNA""}","{""ARNTL2"", ""protein_coding:SLVRNA""}",,,,,"{""NR4A1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""TMPRSS11B"", ""retained_intron:SLVRNA""}","{""ATXN2L"", ""protein_coding:SLVRNA""}",,,,,"{""CHST2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""CTBP2"", ""protein_coding:SLVRNA""}","{""STK35"", ""protein_coding:SLVRNA""}",,,,,"{""MKNK2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""DOPEY2"", ""protein_coding:SLVRNA""}","{""IL18"", ""retained_intron:SLVRNA""}",,,,,"{""ZNF276"", ""nonsense_mediated_decay:SLVRNA""}",,,,
+,,"{""HSPA1B"", ""protein_coding:SLVRNA""}","{""ATG16L2"", ""nonsense_mediated_decay:SLVRNA""}",,,,,"{""RBL2"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""PRSS22"", ""retained_intron:SLVRNA""}","{""HCAR2"", ""protein_coding:SLVRNA""}",,,,,"{""GMIP"", ""protein_coding:SLVRNA""}",,,,
+,,"{""HDAC7"", ""protein_coding:SLVRNA""}","{""CYCS"", ""protein_coding:SLVRNA""}",,,,,"{""SLC16A3"", ""protein_coding:SLVRNA""}",,,,
+,,"{""TSNAX"", ""protein_coding:SLVRNA""}","{""PHF12"", ""protein_coding:SLVRNA""}",,,,,"{""SETD1B"", ""protein_coding:SLVRNA""}",,,,
+,,"{""APAF1"", ""protein_coding:SLVRNA""}","{""ANKRD27"", ""protein_coding:SLVRNA""}",,,,,"{""FOS"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""RP11-463O12.5"", ""TEC:SLVRNA""}","{""SLC35A4"", ""protein_coding:SLVRNA""}",,,,,"{""IL6R"", ""protein_coding:SLVRNA""}",,,,
+,,"{""RDH10"", ""protein_coding:SLVRNA""}","{""KIF21A"", ""protein_coding:SLVRNA""}",,,,,"{""MVP"", ""protein_coding:SLVRNA""}",,,,
+,,"{""VASN"", ""protein_coding:SLVRNA""}","{""XPO6"", ""protein_coding:SLVRNA""}",,,,,"{""WWC3"", ""protein_coding:SLVRNA""}",,,,
+,,"{""LCN2"", ""retained_intron:SLVRNA""}","{""ATP5A1"", ""retained_intron:SLVRNA""}",,,,,"{""NCF1B"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""KRT15"", ""protein_coding:SLVRNA""}","{""LACTB"", ""protein_coding:SLVRNA""}",,,,,"{""PRKD3"", ""protein_coding:SLVRNA""}",,,,
+,,"{""PITX1"", ""protein_coding:SLVRNA""}","{""VWA1"", ""protein_coding:SLVRNA""}",,,,,"{""LAMTOR5"", ""protein_coding:SLVRNA""}",,,,
+,,"{""NCCRP1"", ""protein_coding:SLVRNA""}","{""S100A8"", ""processed_transcript:SLVRNA""}",,,,,"{""EPN1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""RHCG"", ""protein_coding:SLVRNA""}","{""DAPK2"", ""protein_coding:SLVRNA""}",,,,,"{""PCNX3"", ""retained_intron:SLVRNA""}",,,,
+,,"{""ELF3"", ""protein_coding:SLVRNA""}","{""B2M"", ""retained_intron:SLVRNA""}",,,,,"{""SRSF3"", ""protein_coding:SLVRNA""}",,,,
+,,"{""ATG9B"", ""protein_coding:SLVRNA""}","{""GNAQ"", ""protein_coding:SLVRNA""}",,,,,"{""GRN"", ""protein_coding:SLVRNA""}",,,,
+,,"{""FAM83A"", ""protein_coding:SLVRNA""}","{""CXCL17"", ""protein_coding:SLVRNA""}",,,,,"{""GCA"", ""retained_intron:SLVRNA""}",,,,
+,,"{""MLLT6"", ""retained_intron:SLVRNA""}","{""AL844908.5"", ""antisense:SLVRNA""}",,,,,"{""LRAT"", ""protein_coding:SLVRNA""}",,,,
+,,"{""SPNS2"", ""protein_coding:SLVRNA""}","{""DUSP4"", ""protein_coding:SLVRNA""}",,,,,"{""FMR1"", ""retained_intron:SLVRNA""}",,,,
+,,"{""ARHGAP27"", ""protein_coding:SLVRNA""}","{""SRSF7"", ""nonsense_mediated_decay:SLVRNA""}",,,,,"{""STAG2"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""ADIPOR2"", ""protein_coding:SLVRNA""}","{""SLC23A2"", ""protein_coding:SLVRNA""}",,,,,"{""AC096655.2"", ""lincRNA:SLVRNA""}",,,,
+,,"{""PADI1"", ""protein_coding:SLVRNA""}","{""RFX2"", ""protein_coding:SLVRNA""}",,,,,"{""CELF4"", ""protein_coding:SLVRNA""}",,,,
+,,"{""FUT6"", ""protein_coding:SLVRNA""}","{""CREBBP"", ""protein_coding:SLVRNA""}",,,,,"{""EMX2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""PSCA"", ""protein_coding:SLVRNA""}","{""NEDD8"", ""processed_transcript:SLVRNA""}",,,,,"{""LRTM1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""KRT19"", ""protein_coding:SLVRNA""}","{""CD58"", ""protein_coding:SLVRNA""}",,,,,"{""KBTBD6"", ""protein_coding:SLVRNA""}",,,,
+,,"{""MUC21"", ""protein_coding:SLVRNA""}","{""PDGFA"", ""protein_coding:SLVRNA""}",,,,,"{""MSX1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""SLK"", ""protein_coding:SLVRNA""}",,,,,,"{""LPAR4"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""C4orf26"", ""protein_coding:SLVRNA""}",,,,,,"{""RP11-724N1.1"", ""lincRNA:SLVRNA""}",,,,
+,,"{""SESN2"", ""protein_coding:SLVRNA""}",,,,,,"{""EBF1"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""DUSP5"", ""protein_coding:SLVRNA""}",,,,,,"{""EBF1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""PRSS27"", ""protein_coding:SLVRNA""}",,,,,,"{""RP11-96D1.10"", ""sense_overlapping:SLVRNA""}",,,,
+,,"{""CCDC56"", ""protein_coding:SLVRNA""}",,,,,,"{""GABBR2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""MAPK8IP3"", ""protein_coding:SLVRNA""}",,,,,,"{""ATP8A2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""GTF3C5"", ""protein_coding:SLVRNA""}",,,,,,"{""ZBTB20"", ""protein_coding:SLVRNA""}",,,,
+,,"{""RCOR1"", ""protein_coding:SLVRNA""}",,,,,,"{""LAMP2"", ""protein_coding:SLVRNA""}",,,,
+,,"{""SLC25A37"", ""retained_intron:SLVRNA""}",,,,,,"{""LDHA"", ""protein_coding:SLVRNA""}",,,,
+,,"{""MBOAT7"", ""protein_coding:SLVRNA""}",,,,,,"{""BOD1L1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""AMDHD2"", ""retained_intron:SLVRNA""}",,,,,,"{""TMPRSS11D"", ""protein_coding:SLVRNA""}",,,,
+,,"{""LPIN1"", ""protein_coding:SLVRNA""}",,,,,,"{""GBP1"", ""processed_transcript:SLVRNA""}",,,,
+,,"{""ARHGAP17"", ""retained_intron:SLVRNA""}",,,,,,"{""ETNK1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""PTPRC"", ""protein_coding:SLVRNA""}",,,,,,"{""FAM156B"", ""protein_coding:SLVRNA""}",,,,
+,,"{""TNFRSF14"", ""retained_intron:SLVRNA""}",,,,,,"{""MON1B"", ""protein_coding:SLVRNA""}",,,,
+,,"{""NFKBIA"", ""retained_intron:SLVRNA""}",,,,,,"{""HLX"", ""retained_intron:SLVRNA""}",,,,
+,,"{""C16orf72"", ""protein_coding:SLVRNA""}",,,,,,"{""TRPM4"", ""retained_intron:SLVRNA""}",,,,
+,,"{""MAPK13"", ""protein_coding:SLVRNA""}",,,,,,"{""TIMM10B"", ""protein_coding:SLVRNA""}",,,,
+,,"{""SLC44A2"", ""protein_coding:SLVRNA""}",,,,,,"{""RPS5"", ""protein_coding:SLVRNA""}",,,,
+,,"{""YWHAH"", ""protein_coding:SLVRNA""}",,,,,,"{""SLC11A1"", ""retained_intron:SLVRNA""}",,,,
+,,"{""BCR"", ""protein_coding:SLVRNA""}",,,,,,"{""FERMT3"", ""protein_coding:SLVRNA""}",,,,
+,,"{""FAM83H"", ""protein_coding:SLVRNA""}",,,,,,"{""MAEA"", ""retained_intron:SLVRNA""}",,,,
+,,"{""RP11-482G13.1"", ""lincRNA:SLVRNA""}",,,,,,"{""CBFA2T3"", ""retained_intron:SLVRNA""}",,,,
+,,"{""FAM84B"", ""protein_coding:SLVRNA""}",,,,,,"{""SLC6A14"", ""protein_coding:SLVRNA""}",,,,
+,,"{""C2orf54"", ""protein_coding:SLVRNA""}",,,,,,"{""R3HDM4"", ""nonsense_mediated_decay:SLVRNA""}",,,,
+,,"{""PRELID1"", ""retained_intron:SLVRNA""}",,,,,,"{""MCOLN1"", ""retained_intron:SLVRNA""}",,,,
+,,"{""SLC30A7"", ""protein_coding:SLVRNA""}",,,,,,"{""PIK3AP1"", ""protein_coding:SLVRNA""}",,,,
+,,"{""ABHD17A"", ""retained_intron:SLVRNA""}",,,,,,"{""CASC4"", ""protein_coding:SLVRNA""}",,,,
+,,"{""SERTAD1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""DNMT3A"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KLK13"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""TMPRSS2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KRT78"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ARID4B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FCGR2B"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""TRIM25"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PLEK"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""SPEN"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PPL"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMPRSS2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""PPFIBP1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""EDEM1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LMF2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""TMEM43"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NLRC5"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""IGSF6"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""SPG11"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ACPP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""DMKN"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CLDN4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CEACAM6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""AQP5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CTC-444N24.11"", ""lincRNA:SLVRNA""}",,,,,,,,,,
+,,"{""SERPINB3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SERPINB4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""JUP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CYSRT1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PRRG3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SLC35E3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""YPEL3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KIZ"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KRT13"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""PLEKHM1P"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""RP11-467L13.7"", ""antisense:SLVRNA""}",,,,,,,,,,
+,,"{""AGAP6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ABHD12"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KIAA0226L"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CDC42BPB"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PRSS22"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SUGP1"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""CD55"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NLRP1"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""NEAT1"", ""lincRNA:SLVRNA""}",,,,,,,,,,
+,,"{""C9orf72"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""HBA1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""INTS11"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""SGSM2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""EXOC3"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""AC074289.1"", ""antisense:SLVRNA""}",,,,,,,,,,
+,,"{""HNRNPU"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""N4BP1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""OAZ2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""VPS35"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SPRED2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RRP7A"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMEM165"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MMP12"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SERPINB5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FNBP4"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""CD44"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""MLX"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""UBR5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""GPCPD1"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""LAMC2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""YBX3"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""VASP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""UBALD2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CPEB4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FOSB"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ETS2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PPP1R9B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""GPR132"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NR4A3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MMP19"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""CORO7"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MLKL"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""STK19"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""MED12"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KMT2B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FOSL2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ZNF862"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LIMK2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""COPA"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CREBRF"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""STRN4"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""DCUN1D1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""GRB2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HLA-C"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ZMIZ1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""IL1B"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""MCTP2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""USP9X"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SLC7A7"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NR1D1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SCARF1"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""PGS1"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""IL1B"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""PREX1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HIPK3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ATG16L2"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""MYO1F"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""IQGAP1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CDKN2B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KIF1C"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CD46"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""GCOM1"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""MGEA5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""JAK1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LIMK2"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""PTGS2"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""PLEKHO1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""OGFR"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ADGRG3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SLC10A3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RPS9"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""RP11-582J16.5"", ""antisense:SLVRNA""}",,,,,,,,,,
+,,"{""RPL26"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LGALS1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TAGAP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HNRNPK"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TSPO"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RPS27A"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""MYO6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PTMA"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NEDD4L"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MYL12B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RALBP1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CIR1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LL22NC03-2H8.5"", ""lincRNA:SLVRNA""}",,,,,,,,,,
+,,"{""AIF1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMA7"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""S100A4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""BRI3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""S100A8"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MALAT1"", ""lincRNA:SLVRNA""}",,,,,,,,,,
+,,"{""PLAUR"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""NBPF19"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MPHOSPH8"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""AREG"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""INHBA"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CD69"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""THBS1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LCP2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CASS4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RTN4"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""ANKRD12"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""MAFB"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HLA-DRB1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HSD17B11"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MT-ATP8"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CDK11B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""PRPF8"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMEM41A"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SYNE1"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""HSP90AA1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RN7SL368P"", ""misc_RNA:SLVRNA""}",,,,,,,,,,
+,,"{""CASZ1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SAT1"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""STAT6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TFDP2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""UBE2W"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SRRT"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""ANO5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SNORD89"", ""snoRNA:SLVRNA""}",,,,,,,,,,
+,,"{""ALOX5AP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SOD2"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""TNFAIP6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SRGN"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""MARCKS"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FCER1G"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TYROBP"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LAPTM5"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SLC44A2"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""B2M"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""MAP3K8"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SLC11A1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KLF6"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TLE3"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""INAFM2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CD44"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CXCR1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HIF1A"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""STAP2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""FTL"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""NFKBIA"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMSB4X"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""COTL1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CYB5R1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TGFBI"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KYNU"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""TMSB10"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RGS2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""H3F3A"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RHOQ"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""SAMSN1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""EIF5B"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""CTD-2552B11.4"", ""retained_intron:SLVRNA""}",,,,,,,,,,
+,,"{""NBPF14"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RBM25"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""HSP90AA1"", ""nonsense_mediated_decay:SLVRNA""}",,,,,,,,,,
+,,"{""GBP1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""VCAN"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RPS24"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""LILRB1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""KHDRBS1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HS3ST3B1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""EIF1"", ""processed_transcript:SLVRNA""}",,,,,,,,,,
+,,"{""HLA-DQA2"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HBB"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""HCLS1"", ""protein_coding:SLVRNA""}",,,,,,,,,,
+,,"{""RP11-875O11.5"", ""lincRNA:SLVRNA""}",,,,,,,,,,

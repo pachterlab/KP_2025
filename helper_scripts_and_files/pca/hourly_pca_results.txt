@@ -1,0 +1,21 @@
+Importance of components:
+                             PC1       PC2       PC3       PC4       PC5       PC6       PC7       PC8
+Standard deviation     1.386e+06 3.356e+05 2.058e+05 8.985e+04 8.409e+04 6.277e+04 5.198e+04 4.253e+04
+Proportion of Variance 9.130e-01 5.350e-02 2.012e-02 3.840e-03 3.360e-03 1.870e-03 1.280e-03 8.600e-04
+Cumulative Proportion  9.130e-01 9.665e-01 9.866e-01 9.904e-01 9.938e-01 9.956e-01 9.969e-01 9.978e-01
+                             PC9      PC10      PC11      PC12      PC13      PC14      PC15      PC16
+Standard deviation     3.645e+04 2.420e+04 2.164e+04 1.978e+04 1.875e+04 1.552e+04 1.347e+04 1.313e+04
+Proportion of Variance 6.300e-04 2.800e-04 2.200e-04 1.900e-04 1.700e-04 1.100e-04 9.000e-05 8.000e-05
+Cumulative Proportion  9.984e-01 9.987e-01 9.989e-01 9.991e-01 9.993e-01 9.994e-01 9.995e-01 9.995e-01
+                            PC17      PC18      PC19      PC20      PC21      PC22      PC23      PC24
+Standard deviation     1.247e+04 1.153e+04 1.001e+04 9.111e+03 7.864e+03 7.161e+03 6.792e+03 6.637e+03
+Proportion of Variance 7.000e-05 6.000e-05 5.000e-05 4.000e-05 3.000e-05 2.000e-05 2.000e-05 2.000e-05
+Cumulative Proportion  9.996e-01 9.997e-01 9.997e-01 9.998e-01 9.998e-01 9.998e-01 9.998e-01 9.999e-01
+                            PC25      PC26      PC27      PC28      PC29      PC30      PC31      PC32
+Standard deviation     5.742e+03 5.536e+03 5.240e+03 5.001e+03 4.758e+03 4.531e+03 4.428e+03 4.174e+03
+Proportion of Variance 2.000e-05 1.000e-05 1.000e-05 1.000e-05 1.000e-05 1.000e-05 1.000e-05 1.000e-05
+Cumulative Proportion  9.999e-01 9.999e-01 9.999e-01 9.999e-01 9.999e-01 9.999e-01 1.000e+00 1.000e+00
+                            PC33      PC34      PC35      PC36     PC37      PC38 PC39      PC40
+Standard deviation     4.015e+03 3.795e+03 3.624e+03 3.454e+03 3.37e+03 3.295e+03 3071 6.156e-10
+Proportion of Variance 1.000e-05 1.000e-05 1.000e-05 1.000e-05 1.00e-05 1.000e-05    0 0.000e+00
+Cumulative Proportion  1.000e+00 1.000e+00 1.000e+00 1.000e+00 1.00e+00 1.000e+00    1 1.000e+00
