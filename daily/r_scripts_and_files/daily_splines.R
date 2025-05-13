@@ -33,4 +33,10 @@ so <- sleuth_lrt(so, "reduced", "full")
 
 sleuth_table <- sleuth_results(so, 'reduced:full', 'lrt', show_all = FALSE, pval_aggregate = TRUE)
 sleuth_de <- dplyr::filter(sleuth_table, qval <= 0.05)
-#write.csv(sleuth_de, 'daily_new_filter.csv')
+
+# Export files necessary for visualization (uncomment to run the following lines)
+# write.csv(sleuth::extract_model(so, 'full'), 'daily_full_model.csv')
+# write.csv(X, 'daily_time_spline.csv')
+# write.csv(sleuth_de, 'daily_de_genes.csv')
+# write.csv(sleuth::sleuth_to_matrix(so, 'obs_norm', 'est_counts'), 'daily_mtx.csv')
+# write.csv(sleuth::sleuth_to_matrix(so, 'obs_norm', 'tpm'), 'daily_tpm.csv')
